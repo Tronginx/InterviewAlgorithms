@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BeginnerClass" options="--add-modules java.base" />
+      <module name="Recursion1AndSorting" options="--add-modules java.base" />
+    </option>
+  </component>
+</project>
