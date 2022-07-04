@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BeginnerClass/BeginnerClass.iml" filepath="$PROJECT_DIR$/BeginnerClass/BeginnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFSandBackTracking/DFSandBackTracking.iml" filepath="$PROJECT_DIR$/DFSandBackTracking/DFSandBackTracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTableAndString/HashTableAndString.iml" filepath="$PROJECT_DIR$/HashTableAndString/HashTableAndString.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IDEAworkspace.iml" filepath="$PROJECT_DIR$/.idea/IDEAworkspace.iml" />
