@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BeginnerClass/BeginnerClass.iml" filepath="$PROJECT_DIR$/BeginnerClass/BeginnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/DFSandBackTracking/DFSandBackTracking.iml" filepath="$PROJECT_DIR$/DFSandBackTracking/DFSandBackTracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTableAndString/HashTableAndString.iml" filepath="$PROJECT_DIR$/HashTableAndString/HashTableAndString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeapAndBFS/HeapAndBFS.iml" filepath="$PROJECT_DIR$/HeapAndBFS/HeapAndBFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IDEAworkspace.iml" filepath="$PROJECT_DIR$/.idea/IDEAworkspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
