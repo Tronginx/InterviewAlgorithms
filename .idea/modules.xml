@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Practice1Jun30/Practice1Jun30.iml" filepath="$PROJECT_DIR$/Practice1Jun30/Practice1Jun30.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueAndStack/QueueAndStack.iml" filepath="$PROJECT_DIR$/QueueAndStack/QueueAndStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion1AndSorting/Recursion1AndSorting.iml" filepath="$PROJECT_DIR$/Recursion1AndSorting/Recursion1AndSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String2/String2.iml" filepath="$PROJECT_DIR$/String2/String2.iml" />
     </modules>
   </component>
 </project>
