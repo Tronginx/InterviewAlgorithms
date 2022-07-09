@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.stream.IntStream;
 
 public class a197ReOrderArray {
 
@@ -17,6 +18,12 @@ public class a197ReOrderArray {
     }
 
     private void helper(int[] array, int left, int right) {
+
+        System.out.println(left);
+        System.out.println(right);
+        System.out.println(Arrays.toString(array));
+        System.out.println("----------------------------");
+
 
         int size = right - left + 1;
         if (size <= 2) {
@@ -40,7 +47,7 @@ public class a197ReOrderArray {
 
     private void reverse(int[] array, int left, int right) {
 
-        while (left < right) {
+        while (left <= right) {
             int temp = array[left];
             array[left] = array[right];
             array[right] = temp;
@@ -51,16 +58,15 @@ public class a197ReOrderArray {
 
 
     public static void main(String[] args) {
-        int[] input1 = new int[]{1,2,3,4,11,12,13,14};
-        int[] input2 = new int[]{1,2,3,4,11,12,13,14,15};
+        int[] input1 = new int[]{1,2,3,11,22,33};
 
         a197ReOrderArray sol = new a197ReOrderArray();
 
         int[] res1 = sol.reOrder(input1);
-        int[] res2 = sol.reOrder(input2);
+        //int[] res2 = sol.reOrder(input2);
 
         System.out.println(Arrays.toString(res1));
-        System.out.println(res2.toString());
+        //System.out.println(Arrays.toString(res2));
 
     }
 

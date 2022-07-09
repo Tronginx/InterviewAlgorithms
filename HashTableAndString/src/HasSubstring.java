@@ -28,6 +28,7 @@ public class HasSubstring {
             return 0;
         }
 
+        //hash must keep non-negative
         for (int i = 1; i <= large.length()-small.length(); i++) {
             hash = nonNegative(hash - seed * large.charAt(i - 1) % largePrime, largePrime);
             hash = moduleHash(hash, large.charAt(i + small.length() - 1), prime, largePrime);
@@ -40,6 +41,8 @@ public class HasSubstring {
     }
 
     public int moduleHash(int hash, int addition, int prime, int largePrime) {
+        //why not ?
+        //return (hash * prime + addition) % largePrime;
         return (hash * prime % largePrime + addition) % largePrime;
     }
 
@@ -61,7 +64,7 @@ public class HasSubstring {
 
 
     public static void main(String[] args) {
-        String large = "abcdefg";
+        String large = "abcdefgasioduiosauodi";
         String small = "ef";
 
         HasSubstring sol = new HasSubstring();
