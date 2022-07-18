@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BeginnerClass/BeginnerClass.iml" filepath="$PROJECT_DIR$/BeginnerClass/BeginnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/DFSandBackTracking/DFSandBackTracking.iml" filepath="$PROJECT_DIR$/DFSandBackTracking/DFSandBackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTableAndString/HashTableAndString.iml" filepath="$PROJECT_DIR$/HashTableAndString/HashTableAndString.iml" />
       <module fileurl="file://$PROJECT_DIR$/HeapAndBFS/HeapAndBFS.iml" filepath="$PROJECT_DIR$/HeapAndBFS/HeapAndBFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Practice1Jun30/Practice1Jun30.iml" filepath="$PROJECT_DIR$/Practice1Jun30/Practice1Jun30.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueAndStack/QueueAndStack.iml" filepath="$PROJECT_DIR$/QueueAndStack/QueueAndStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion1AndSorting/Recursion1AndSorting.iml" filepath="$PROJECT_DIR$/Recursion1AndSorting/Recursion1AndSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion2/Recursion2.iml" filepath="$PROJECT_DIR$/Recursion2/Recursion2.iml" />
       <module fileurl="file://$PROJECT_DIR$/String2/String2.iml" filepath="$PROJECT_DIR$/String2/String2.iml" />
     </modules>
   </component>
