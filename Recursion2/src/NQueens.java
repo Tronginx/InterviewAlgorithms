@@ -12,9 +12,15 @@ public class NQueens {
         List<Integer> cur = new ArrayList<>();
 
         dfs(res, cur, n);
+
         return res;
+
+
     }
+
+
     private void dfs(List<List<Integer>> res, List<Integer> cur, int n) {
+
         if (cur.size() == n) {
             res.add(new ArrayList<>(cur));
             return;
@@ -32,10 +38,11 @@ public class NQueens {
     private boolean isValid(List<Integer> cur, int column) {
         int row = cur.size();
         for (int i = 0; i < row; i++) {
-            if (cur.get(i) == column || Math.abs(cur.get(column) - column) == row - i) {
+            if (cur.get(i) == column || Math.abs(cur.get(i) - column) == row - i) {
                 return false;
             }
         }
         return true;
     }
+
 }
